@@ -1,0 +1,17 @@
+
+body{
+    background-color:blue;
+    display: flexbox;
+    margin-left: 50px;
+    align-items: center;
+}
+
+pg01{
+
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
